@@ -1,0 +1,3 @@
+# Allocator Lab
+
+Self learning project to understand how memory management works in C/C++. I'll be working through several implementations of memory allocators, starting with a simple one then moving on to more complex ones. Goal is to be able to build my own memory allocator from scratch and understand how it works under the hood. Here are my notes so far!: [Allocator Lab Notes](https://docs.google.com/document/d/1unMT4exqpPsa3WtJLFc2t-LuY5xw4eQyv7k__jxnWhw/edit?tab=t.0#heading=h.bigd0vpkeef0)
